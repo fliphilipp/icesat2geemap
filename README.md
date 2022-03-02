@@ -1,6 +1,6 @@
 # icesat2geemap
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fliphilipp/icesat2geemap/HEAD?labpath=geemap_ICESat2_OA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fliphilipp/icesat2geemap/main?labpath=geemap_ICESat2_OA.ipynb)
 [![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ivh5-Gy9jR6F7imAdhGPYSwakFp7aEvw?usp=sharing)
 
 Interactively visualize and contextualize high-resolution spaceborne LiDAR data from NASA's ICESat-2 mission, 
