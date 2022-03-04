@@ -5,6 +5,5 @@ dependencies:
   - ipykernel
   - icepyx
   - scikit-learn
-  - ipympl
   - geemap
   - nodejs[version='>=12.0.0']
